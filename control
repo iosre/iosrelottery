@@ -1,0 +1,10 @@
+Package: com.iosre.iosrelottery
+Name: iOSRELottery
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOSRE Lottery!
+Maintainer: iOSRE
+Author: iOSRE
+Homepage: http://iosre.com
+Section: Tweaks
